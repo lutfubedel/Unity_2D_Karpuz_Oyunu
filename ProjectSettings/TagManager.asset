@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WallTop
+  - WallLeft
+  - WallRight
+  - WallBottom
+  - FinishLine
+  - Ball_01
+  - Ball_02
+  - Ball_03
+  - Ball_04
+  - Ball_05
+  - Ball_06
+  - Ball_07
+  - Ball_08
+  - Ball_09
+  - Ball_010
+  - Ball_011
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

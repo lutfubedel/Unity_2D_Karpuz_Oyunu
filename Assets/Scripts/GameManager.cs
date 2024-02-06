@@ -43,6 +43,8 @@ public class GameManager : MonoBehaviour
 
         medal.SetActive(false);
 
+        Application.targetFrameRate = 60;
+
     }
 
 
